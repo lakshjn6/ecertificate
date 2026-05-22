@@ -21,7 +21,7 @@ const certificates = {
     type: "Internship Completion Certificate",
     duration: "120 Hours",
     photo: "/photos/Disha.jpg",
-    file: "/certificates/INT-2026-021.pdf",
+    file: "/certificates/Certificate_INT-2026-021_Disha_Jain.pdf",
   },
   "INT-2026-022": {
     name: "Avi Jain",
@@ -30,8 +30,8 @@ const certificates = {
     status: "Verified",
     type: "Internship Completion Certificate",
     duration: "160 Hours",
-    photo: "/photos/Disha.jpg",
-    file: "/certificates/INT-2026-022.pdf",
+    photo: "/photos/Avi.jpg",
+    file: "/certificates/Certificate_INT-2026-022_Avi_Jain.pdf",
   },
   
 };
